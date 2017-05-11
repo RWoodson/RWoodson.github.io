@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container .row .col-md-6.text-center {
+	margin-left: 291px;
+
+
+
+}
+.container .row .col-lg-4.col-md-4 {
+
+}
+
+
+.row .col-lg-12.text-center .btn.btn-success {
+	background-color: #FD7477;
+}
+body p {
+	display: block;
+}
+
+.container #myDefaultNavbar1 .nav.navbar-nav {
+	float: right;
+}
+.latest_work {
+	padding-top: 26px;
+}
+.background_drop {
+	width: 1173px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-shadow: 6px 156px 154px -26px;
+	box-shadow: 6px 156px 154px -26px;
+
+
+
+}
+.section.well.col-lg-12 .container .row {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	width: 1105px;
+	float: left;
+}
+
+.col-xs12 p .btn.btn-primary.btn-lg {
+	background-color: #A9DEDB;
+}
+.row .col-md-3.text-center.col-sm-6.col-xs-6 img {
+	padding-bottom: 24px;
+}
+.background_drop section .jumbotron.text-center {
+	margin-bottom: 0px;
+	margin-top: -40px;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+
+.row .col-xs-12.text-center h1 {
+	margin-top: 10px;
+}
+.About section .flt_lft {
+	float: left;
+}
+.About section .flt_rgt {
+	float: right;
+}
+.About .col-lg-11 .text_rgt {
+	text-align: right;
+}
+
+
+
+
+.container .row .col-xs-12.text-center {
+	margin-top: 37px;
+}
+.background_drop section {
+}
+.jumbotron {
+	height: 282px;
+}
+.text_rgt {
+}
+section div .contact_sheet {
+
+
+}
+section div .contact_sheet.col-lg-offset-1.col-lg-10 {
+	margin-bottom: 21px;
+}
+.jumbbackground {
+	margin-top: -40px;
+
+}
+.row .col-md-3.text-center.col-sm-6.col-xs-6.hidden-xs.hidden-sm.col-lg-4 .power {
+	padding-top: 55px;
+	padding-bottom: 83px;
+}
+
+.power {
+	padding-bottom: 0px;
+}
+.text_lft {
+	text-align: right;
+}
+.navbar.navbar-default .container #myDefaultNavbar1 {
+	width: 1155px;
+	max-width: 1155px;
+
+
+}
+div .col-lg-10.col-lg-offset-1 #textarea {
+}
+.navbar.navbar-default {
+	background-color: #A9DEDB;
+}
+.background_drop .section.well.col-lg-12 {
+	background-color: #A9DEDB;
+}
+.panel-title a img {
+	margin-right: 0px;
+	margin-left: -17px;
+	margin-bottom: -36px;
+	margin-top: -13px;
+}
+.message {
+	width: 456px;
+	height: 204px;
+}
+div .col-lg-3.col-lg-offset-4 #textarea {
+	min-width: 0px;
+	width: 480px;
+	height: 237px;
+	max-width: 480px;
+	min-height: 0;
+	max-height: 237px;
+}
+.col-lg-2.col-lg-offset-3 .col-lg-offset-0.col-lg-12 #submit {
+	margin-left: 172px;
+
+
+}
+
+
+@media (max-width: 426px){
+.navbar.navbar-default .container #myDefaultNavbar1 {
+	width: 410px;
+
+}
+.background_drop {
+	width: 400px;
+}
+.background_drop .section.well.col-lg-12 {
+	width: 410px;
+}
+.background_drop section .col-lg-2.col-lg-offset-3 {
+	padding-left: 0px;
+	width: 141px;
+}
+section .col-lg-2.col-lg-offset-3 #textarea {
+	width: 401px;
+}
+.col-lg-2.col-lg-offset-3 .col-lg-offset-0.col-lg-12 #submit {
+	padding-right: 8px;
+	margin-left: 139px;
+}
+.background_drop .section.well.col-lg-12 {
+	width: 400px;
+}
+.section.well.col-lg-12 .container .row {
+	width: 360px;
+	margin-left: 6px;
+}
+
+section div .col-lg-3.col-lg-offset-4 {
+
+}
+.navbar.navbar-default {
+	width: 400px;
+}
+
+div .contact_sheet.col-lg-offset-1.col-lg-10 #email {
+
+
+}
+div .contact_sheet.col-lg-offset-1.col-lg-10.col-xs-7 label {
+	padding-right: 32px;
+}
+.background_drop .section.well.col-lg-12 .container {
+}
+.background_drop section .jumbbackground {
+	width: 399px;
+}
+.row .col-xs-12.text-center h1 {
+	padding-top: 36px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

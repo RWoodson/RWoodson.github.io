@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container .row .col-md-6.text-center {
+	margin-left: 291px;
+
+
+
+}
+.container .row .col-lg-4.col-md-4 {
+
+}
+
+
+.row .col-lg-12.text-center .btn.btn-success {
+	background-color: #FD7477;
+}
+body p {
+	display: block;
+}
+
+.container #myDefaultNavbar1 .nav.navbar-nav {
+	float: right;
+}
+.latest_work {
+	padding-top: 26px;
+}
+.background_drop {
+	width: 1173px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-shadow: 6px 156px 154px -26px;
+	box-shadow: 6px 156px 154px -26px;
+
+
+
+}
+.section.well.col-lg-12 .container .row {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	width: 1105px;
+	float: left;
+}
+
+.col-xs12 p .btn.btn-primary.btn-lg {
+	background-color: #FD7477;
+}
+.row .col-md-3.text-center.col-sm-6.col-xs-6 img {
+	padding-bottom: 24px;
+}
+.background_drop section .jumbotron.text-center {
+	margin-bottom: -33px;
+	margin-top: -40px;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+.row .col-xs-12.text-center h1 {
+	margin-top: 10px;
+}
+.container .row .col-xs-12.text-center {
+	margin-top: 37px;
+}
+.background_drop section {
+}
+.jumbotron {
+	height: 282px;
+}
+.clients_jumbo {
+}
+.About {
+	height: 540px;
+}
+.background_drop .About section {
+	height: 202px;
+}
+.About section .flt_rgt {
+	float: right;
+}
+.About section .flt_lft {
+	float: left;
+}
